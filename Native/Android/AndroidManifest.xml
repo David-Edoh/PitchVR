@@ -1,0 +1,6 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.pitchvr">
+  <application>
+    <activity android:name="com.pitchvr.PdfBridge$PdfPickerActivity"
+              android:exported="false" android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+  </application>
+</manifest>
